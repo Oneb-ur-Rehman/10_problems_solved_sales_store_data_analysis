@@ -10,9 +10,6 @@ A retail store can track daily sales transactions including order detail, custom
 5️⃣ Which product categories generate the highest revenue?
 6️⃣ What is the return/cancellation rate per product category?
 7️⃣ What is the most preferred payment mode?
-
-(You wrote “amount mode” — correct term is payment mode)
-
 8️⃣ How does age group affect purchasing behavior?
 9️⃣ What is the monthly sales trend?
 🔟 Are certain genders buying more specific product categories?
