@@ -4,8 +4,11 @@
 A retail store can track daily sales transactions including order detail, customer info, product category, order time, and order status. The business want to optimize operations, improve customer experience, and increase profitability using data-driven decision.
 
 1️⃣ What are the top 5 most selling products by quantity?
+
 2️⃣ Which products are most frequently canceled?
+
 3️⃣ What time of the day has the highest number of purchases?
+
 4️⃣ Who are the top 5 highest-spending customers?
 5️⃣ Which product categories generate the highest revenue?
 6️⃣ What is the return/cancellation rate per product category?
